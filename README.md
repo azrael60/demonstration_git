@@ -1,4 +1,2 @@
 # demonstration_git
-Une démonstration de git.
-
-Voici une nouvelle ligne ajouté.
+Je suis un nouveau texte , pour simuler un git pull.
